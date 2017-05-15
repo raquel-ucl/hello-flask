@@ -5,7 +5,7 @@ Run like this:
 
 ```
 cd hello-flask
-export FLASK_APP=hello.py;
+export FLASK_APP=hello.py
 flask run &
 ```
 
